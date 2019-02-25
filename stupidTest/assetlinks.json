@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.ndipatri.iot.roboButton",
+    "sha256_cert_fingerprints":
+    ["4E:D9:D7:27:EF:2B:FB:4A:5E:0B:8D:CC:23:C5:19:E1:4D:58:78:69:53:63:03:6A:7F:1F:66:7C:24:F1:FC:79"]
+  }
+}]
